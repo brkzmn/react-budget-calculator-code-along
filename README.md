@@ -3,6 +3,9 @@
 The link for the project video:
 https://www.youtube.com/watch?v=f6HYLHrYpGs&ab_channel=CodingAddict
 
+The app is live on:
+https://clinquant-syrniki-542213.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
