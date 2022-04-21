@@ -1,3 +1,8 @@
+# THIS IS A CODE ALONG PROJECT
+
+The link for the project video:
+https://www.youtube.com/watch?v=f6HYLHrYpGs&ab_channel=CodingAddict
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
